@@ -1,3 +1,20 @@
+
+
+
+
+
+
+
+{
+  "chainId": 137,
+  "address": "0xD64C4e3503c777e65Bc82828DADb9145d6Df4799",
+  "name": "vaycoin",
+  "symbol": "VAY",
+  "decimals": 18,
+  "logoURI": "https://vaycoin.world/vay.png"
+}
+
+
 [
   {
     "name": "Wrapped Ether",
